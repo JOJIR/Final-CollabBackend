@@ -1,4 +1,4 @@
-DIGITAL TEAM - NIIT Project ②
+NIIT Project ②
 
 Collaboration project consisting of basic funtionality like
 
