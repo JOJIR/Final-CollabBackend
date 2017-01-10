@@ -2,11 +2,16 @@ NIIT Project ②
 
 Collaboration project consisting of basic funtionality like
 
-New user registrations,
-Blogs,
-Blog comments,
-Group Chat,
-Jobs,
+New user registrations
+
+Blogs
+
+Blog comments
+
+Group Chat
+
+Jobs
+
 Friend Request (accept and reject)
 
 
